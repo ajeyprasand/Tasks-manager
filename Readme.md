@@ -1,7 +1,7 @@
-# TaskManager UI
+# TaskManager 
 
 ## Overview 
-The TaskManager UI is designed to interact seamlessly with the TaskManager API (Task_2). It provides a user-friendly interface to manage tasks efficiently.
+The TaskManager is designed to provided a user-friendly interface to manage project tasks efficiently.
 
 ## Tools Used
   1. **Language:**
